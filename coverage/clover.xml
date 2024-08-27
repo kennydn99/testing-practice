@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1724738239872" clover="3.2.0">
+  <project timestamp="1724738239873" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="19" coveredconditionals="19" methods="14" coveredmethods="14" elements="64" coveredelements="64" complexity="0" loc="31" ncloc="31" packages="1" files="6" classes="6"/>
+    <file name="analyzeArray.js" path="/home/kennydn99/Desktop/node-path/testing-basics/analyzeArray.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="24" type="stmt"/>
+      <line num="3" count="10" type="stmt"/>
+      <line num="4" count="10" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="7" count="10" type="stmt"/>
+    </file>
+    <file name="caesarCipher.js" path="/home/kennydn99/Desktop/node-path/testing-basics/caesarCipher.js">
+      <metrics statements="13" coveredstatements="13" conditionals="11" coveredconditionals="11" methods="4" coveredmethods="4"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="3" count="30" type="stmt"/>
+      <line num="4" count="30" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="27" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="18" count="24" type="stmt"/>
+      <line num="20" count="30" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="27" count="6" type="stmt"/>
+      <line num="28" count="6" type="stmt"/>
+      <line num="29" count="30" type="stmt"/>
+      <line num="31" count="6" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/home/kennydn99/Desktop/node-path/testing-basics/calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/home/kennydn99/Desktop/node-path/testing-basics/capitalize.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="4" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/home/kennydn99/Desktop/node-path/testing-basics/reverseString.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/kennydn99/Desktop/node-path/testing-basics/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
